@@ -13,5 +13,7 @@ The dataset was sourced from a collaboration study completed by The University o
 Methodology
 The data was already cleaned with the existing file. It did need to go through some pre-processing steps to tailor it more for the project. This included removing unrequired data, applying smote, dealing with null values via imputation and converting strings into integers. The data was tested by comparing the dependant variable to the independant variables. 
 
+![Project Results](my_graph.png)
+
 Key Challenges
 During the earlier prototypes the KNN model seemed to be struggling greatly from the curse of dimentionality. To overcome this the catagories were grouped based on similarity, reducing the total catagories from 6 to 3. This greatly improved the models testing results, especially the KNN result. 
