@@ -1,4 +1,4 @@
-# ML-Dissertation-Project
+# ML-Dissertation-Project-Overview
 
 The problems I aimed to achieve during this project were to address the lack of standardised terminology to define genres in the domain, the lack of large datasets being used for this type of project and a lack of research using machine learning (classification) in the domain. These problems were important to address because if the desired result was found then these findings could potentially apply to the medical field to assist people with various conditions. 
 
